@@ -28,7 +28,7 @@ curl -fsSL https://bun.sh/install | bash
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/biohacker101/misdeed.git
+git clone https://github.com/Kedaar-NR/misdeed.git
 cd misdeed
 ```
 
